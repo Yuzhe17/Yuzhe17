@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yuzhe Xiao</h1>
-<h3 align="center">Data analyst/PHD researcher of data-driven crack detection in airplane engine/Le wagon data scientist program graduate</h3>
+<h3 align="center">Data analyst/PHD researcher of data-driven crack detection in airplane engine</h3>
 
 - 🔭 I’m currently working on AMEX credict card default prediction and data-driven crack detection
 - 💬 Ask me about data analytics, machine learning, python programming, SQL, data-driven structural health monitoring
